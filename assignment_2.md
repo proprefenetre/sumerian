@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Verbal number in Sumerian and Itonama"
 author:
 - name: Niels Eigenraam
   snum: s0620157
@@ -7,13 +7,12 @@ author:
 crossrefYaml: "pandoc-crossref-settings.yaml"
 ...
 
+## Introduction
 
-## Verbal Number in Sumerian and Itonama.
+Verbal number has been attested in a number of languages across the world, most notably those from North-American and Polynesian language families [@crev06, p. 160; @corbett2000, p. 245]. Thus far, Itonama is the only  South-American language for which verbal number has been attested. Sadly, the language has become extinct not so long ago. Verbal number is also present in Sumerian, an ancient Near Eastern Language spoken more than 4000 years ago in southern Mesopotamia (modern day Iraq) [@jagersma10]. 
 
-### Introduction
-Verbal number has been attested in a number of languages across the world, most notably those from North-American and Polynesian language families [@crev06]. Thus far, Itonama is the only  South-American language for which verbal number 
-has been attested. Sadly, the language has become extinct not so long ago. Verbal number is also present in Sumerian, an ancient Near Eastern Language spoken more than 4000 years ago in southern Mesopotamia (modern day Iraq) [@jagersma10]. 
-
+## Verbal number
+<!-- write some more about what it is! -->
 As opposed to nominal number, which relates to entities, verbal number relates to actions or states that are repeated across time and/or space (@crev06, p. 160, @jagersma10, p. 414). This type of plurality is usually expressed by verbal affixes and reduplication. Most often derivational rather than inflectional.
 
 For example, in Dutch the plurality of the action 'to walk' in (@du2) depends mostly on the pronoun _wij_. The form _lopen_ has several other meanings, e.g. non-finite, \textsc{2pl}, and \textsc{3pl}, among others.
@@ -33,7 +32,6 @@ In Central Pomo, a language spoken in Northern California [@corbett2000], verbal
 In (@cp2) several tying-up events take place, hence the plural marking on the verb [@corbett2000, p. 244].
 
 ### Types of verbal number 
-
 @corbett2000 identifies two types of verbal number: _event number_ and _participant number_. Event number is independent of the number of participants. Rather, it denotes the number of actions that take place. The most important distinction that is made with event number is between single and multiple events. Compare for instance the sentences (@ito1) and (@ito2) in Itonama:
 
 (@ito1) why do you want to eat us, uncle?
@@ -75,19 +73,18 @@ The pluralized stem mainly expresses event number, e.g. plurality of action or s
 
 ## Verbal number in Itonama
 
-Verbal number in itonama  
+According to @crev06, number is a purely verbal phenomenon in Itonama. [@tbl:pln] lists the only nouns for which a plural form has been attested.
+
+------  -----------     -------  -----------
+woman   _wabï'ka_         women    _ïwabï_
+man     _umu_             men      _umu'ke_
+girl    _t'iyaya'tya_     girls    _t'iyaya'tye_
+------  -----------     ------   -----------
+
+: Plural nouns in Itonama {#tbl:pln}
 
 ### Participant number
 
-Not unlike Sumerian, Itonama has a complicated verbal morphology [@crev06, p. 163]. Participant number can be expressed by altering the verb stem through (partial) reduplication (shown in (@ito3) and (@ito4)), stem alternation, verbal classifiers or pluractional markers (for more examples please see @crev06, p. 166).
-
-(@ito3) sih-k'i-ma-doh-ne upa'u\\
-        1PL.EXCL-INV-hand-bite-NEU dog \\
-        'the dog bit us on the hand'
-
-(@ito4) sih-k'i-ma-do~doh-ke upa'u \\
-        1PL.EXCL-INV-hand-ITE-bite-PL dog \\
-        'the dogs bit us on the hand'
 
 ### Event number
 
