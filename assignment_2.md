@@ -45,14 +45,14 @@ According to @corbett2000 there are two types of verbal number: event number and
 The difference between participant number and agreement is subtler. Instead of enumerating entities, participant number expresses the quantifies actions or states. In Sumerian, for instance, this is expressed using alternating verb stems. Compare:
 
 \begin{exe}
-    \ex\label{sum1} \textbf{PN guru\v{s}ta-da mu-da-lu_5-ka-am_6}
+    \ex\label{sum1} {PN guru\v{s}ta-da mu-da-lu_5-ka-am_6}
     \gll PN guru\v{s}ta =da Ø -mu -n -da -lu_5.k -Ø -\ipa{P}a =Ø =\ipa{P}am \\
     PN fattener =\textsc{com} \textsc{vp} -\textsc{vent} -\textsc{3sg} -with -live:\textsc{sing} -\textsc{3n.s/do} -\textsc{nom} =\textsc{abs} =be:3\textsc{n.s} \\
     \glt  ‘It (viz. one lamb) is one that lives at PN, the fattener’s place.’ (Jagersma (2010), p. 316)
 \end{exe}
 
 \begin{exe}
-    \ex\label{sum2} \textbf{lugal-\`i-k\'u\v{s} e-da-se_1_2}
+    \ex\label{sum2} {lugal-\`i-k\'u\v{s} e-da-se_1_2}
     \gll lugal.\`i.k\'u\v{s}=d(a) \ipa{P}i-n -da -se_1_2 -Ø \\
      Lugalikush=\textsc{com} \textsc{vp-3sg} -with -live:\textsc{plur} -\textsc{3n.s/do} \\
     \glt 'They (viz. 82 sheep) live at Lugal-ikush’s place.' (Jagersma (2010), p. 316)
@@ -112,7 +112,7 @@ It has been assumed that in these cases, the verb expresses participant number.
 In (\ref{sum3}), however, the singular verb refers to a plural participant:
 
 \begin{exe}
-    \ex\label{sum3} \textbf{ki ensi_2-\ipa{\v{s}\`e} \ipa{\^g}en-na-ne-ne}
+    \ex\label{sum3} {ki ensi_2-\ipa{\v{s}\`e} \ipa{\^g}en-na-ne-ne}
     \gll ki ensi_2.k =ak =\ipa{\v{s}\`e} \ipa{\^g}en -Ø -\ipa{P}a =an\ipa{\=e}n\ipa{\=e} =e \\
     place ruler =\textsc{gen} =\textsc{term} go:\textsc{sing} -\textsc{nfin} -\textsc{nom} =their =\textsc{dir} \\
     \glt 'when they went to the ruler's place'  (@sum3) Ex. 30 DGS (p. 318).
@@ -125,12 +125,10 @@ In other words, the alternating verbs in [@tbl:altverbs] show event, rather than
 Verb alternation is limited to a small subset of Sumerian verbs. Verbal number, however, is not. For verbs that do not belong to the subset in [@tbl:altverbs], Sumerian uses full verb stem reduplication to express number. Plural stems generally indicate plurality of action or state, e.g.:
 
 \begin{exe}
-    \ex\label{sum4} \textbf{zi-da gabu_2-na piri\ipa{\^g
-    \`i}-n\ipa{\'u}-n\ipa{\'u}}
+    \ex\label{sum4} {zi-da gabu_2-na piri\ipa{\^g \`i}-n\ipa{\'u}-n\ipa{\'u}}
     \gll zi.d -Ø -\ipa{P}a gabu_2 =ane =\ipa{P}a piri\ipa{\^g} =Ø \ipa{\^g}i -b(i) -n\ipa{\'u}-n\ipa{\'u}-Ø \\
     be.right -\textsc{nfin} -\textsc{nom} left =his =\textsc{loc} lion =\textsc{abs} \textsc{vp} -3\textsc{n}:on -lie-lie \textsc{-3n.s/do} \\
-    \glt ‘Lions lay on his right as well as on his left. (Jagersma (2010), p.
-320)
+    \glt ‘Lions lay on his right as well as on his left. (Jagersma (2010), p. 320)
 \end{exe}
 
 This can be either a single person performing one action on several objects, a single person performing the same action several times, or several persons performing the same action once, etc. For an overview, see [@jagersma10, p. 316-321].
@@ -175,7 +173,7 @@ verbal classifiers
 
 ### Participant number
 
-Participant number can be expressed using partial CV reduplication, e.g. in (\ref{ito1}) the reduplication of the stem signals that several dogs were involved in the biting, in contrast to (\ref{ito2}).
+Participant number can be expressed using partial CV reduplication, e.g. in (\ref{ito1}) the reduplication of the stem signals that several dogs were involved in the biting, in contrast to (\ref{ito2}) (all following examples are taken from [@crev06]).
 
 \begin{exe}
     \ex\label{ito1} 
@@ -186,9 +184,9 @@ Participant number can be expressed using partial CV reduplication, e.g. in (\re
 
 \begin{exe}
     \ex\label{ito2}
-    \gll sih-k'i-ma-\textbf{do~doh}-ke upa'u \\
+    \gll sih-k'i-ma-\textbf{do\~doh}-ke upa'u \\
     1\textsc{pl.excl-inv}-hand-\textsc{ite}-bite-\textsc{pl} dog \\
-    \glt 'The dogs bit us on the hand.' (Crevels (2006), p. 166)
+    \glt 'The dogs bit us on the hand.'
 \end{exe}
 
 Suppletive verbal stems can also be used. Note that the use of different verb stems in (\ref{ito3}) and (\ref{ito4}) automatically leads to a distinction in participant number [@crev06, p. 167].
@@ -196,14 +194,14 @@ Suppletive verbal stems can also be used. Note that the use of different verb st
 \begin{exe}
     \ex\label{ito3} 
     \gll ah-may-sewa-na tyahka'kahka wa'ihna oli'-na \\
-    3-subord-see-neu moon dm fall.sg-neu \\
+    \textsc{3-subord}-see-\textsc{neu} moon \textsc{dm} fall.\textsc{sg-neu} \\
     \glt 'When he saw the moon, he fell.'
 \end{exe}
 
 \begin{exe}
     \ex\label{ito4} 
     \gll ispi'i soloh-ke wanu'we \\
-     almost fall.pl-pl water \\
+     almost fall.\textsc{pl-pl} water \\
     \glt 'They almost fell into the water.'
 \end{exe}
 
@@ -211,83 +209,85 @@ The verbal classifiers in (\ref{ito5}) and (\ref{ito6}) refer to vertical, plant
 Itonama has a number of different verbal classifiers. Generally, these are combined with an existential predicate or predicates of possession, location and manipulation. An overview can be found in @crev12 [p. 269]
 
 \begin{exe}
-    \ex\label{5} 
+    \ex\label{ito5} 
     \gll  s-mi-chuwanano si-chobo abïte opi'i\\
-     1sg.poss-rel-compound be-clf5 tree small\\
+     \textsc{1sg.poss-rel}-compound be-\textsc{clf5} tree small\\
     \glt 'There is a small tree in my compound.' 
 \end{exe}
 
 \begin{exe}
     \ex\label{ito6} 
-    \gll  nik'abï chokosno osi-bo abïte mi-yu-so~lo<ho>loh-te dih-ni-yumo'-te \\
-     over.there forest be-CLF6 tree  REL-CAU-fall~ITE<INTNS>fall-CONT 1PL.INCL-REL-eat-CONT \\
+    \gll  nik'abï chokosno osi-bo abïte mi-yu-so\~lo<ho>loh-te dih-ni-yumo'-te \\
+     over.there forest be-\textsc{clf6} tree  \textsc{rel-cau}-fall\~\textsc{ite<intns>}fall-\textsc{cont} \textsc{1pl.incl-rel}-eat-\textsc{cont} \\
     \glt 'There are trees over there in the forest that are dropping fruit all
 the time so that we can all eat.'  
 \end{exe}
 
-participant number is also marked using pluractional markers [@crev06, p.167]. In (\ref{ito7}), for example, the pluractional marker _-cha'ke_ indicates plural participant number. Example (\ref{ito8}) shows that pluractional markers are used for event number as well. An overview of these markers is given in @crev06 [p.168]
+Participant number is also marked using pluractional markers [@crev06, p.167]. In (\ref{ito7}), for example, the pluractional marker _-cha'ke_ indicates plural participant number. Example (\ref{ito8}) shows that pluractional markers are used for event number as well. An overview of these markers is given in @crev06 [p.168]
 
 \begin{exe}
     \ex\label{ito7} 
     \gll chaswada-'ke ihwana obeha  \\
-     shave-PL Juan sheep \\
+     shave-\textsc{pl} juan sheep \\
     \glt 'Juan shaved the sheep (SG).'
 \end{exe}
 
 \begin{exe}
     \ex\label{ito8} 
     \gll  chaswada-'cha'ke ihwana obeha \\
-     shave-MULT Juan sheep \\
+     shave-\textsc{mult} juan sheep \\
     \glt  'Juan shaved the sheep (PL).'  
 \end{exe}
 
-
 ### Event number
 
-Event number in Itonama is expressed using several approaches ([@tbl:exprvn]), some identical to those used for participant number. The examples in (@ito11) and (@ito12) show the use of a distributive marker to mark different 'giving-events' [@crev06, p. 165].
+Event number in Itonama is expressed using several approaches ([@tbl:exprvn]), some identical to those used for participant number. The examples in (\ref{ito9}) and (\ref{ito10}) show the use of a distributive marker to mark different 'giving-events' [@crev06, p. 165].
 
-13
 \begin{exe}
     \ex\label{ito9} 
-    \gll wase’wa si-makï uwaka k’a-dïlï ubuwa\\
-     yesterday 1SG-give meat DEM.DIS-CLF2 person \\
+    \gll wase'wa si-makï uwaka k'a-dïlï ubuwa\\
+     yesterday \textsc{1sg}-give meat \textsc{dem.dis-clf2} person \\
     \glt 'Yesterday I gave those persons meat'
 \end{exe}
 
 \begin{exe}
     \ex\label{ito10} 
-    \gll  wase’wa si-makï-he uwaka k’a-dïlï ubuwa \\
-     yesterday 1SG-give-DISTR meat DEM.DIS-CLF2 person \\
+    \gll  wase'wa si-makï-he uwaka k'a-dïlï ubuwa \\
+     yesterday \textsc{1sg}-give-\textsc{distr} meat \textsc{dem.dis-clf2} person \\
     \glt 'Yesterday I gave each of those persons meat'
 \end{exe}
 
 Another strategy is partial reduplication. This strategy differs from the one marking participant number in that it is combined with an intensifying infix, e.g.:
 
-16
 \begin{exe}
     \ex\label{ito11} 
-    \gll sosohte yumani ya~ka<’a>ka-ne-’ka wabï’ka \\
-     all night sing-ITE<INTNS>sing-NEU-F.SG woman \\
+    \gll sosohte yumani ya\~ka<'a>ka-ne-'ka wabï'ka \\
+     all night sing-\textsc{ite<intns>}sing-\textsc{neu-f.sg} woman \\
     \glt 'The woman sang every night'
 \end{exe}
 
 \begin{exe}
     \ex\label{ito12} 
-    \gll  sosohte yumani ya~ka<’a>ka-na-’ke ïwabï\\
-    all night sing~ITE<INTNS>sing-NEU-PL women \\
-    \glt  The women sang every night'
+    \gll  sosohte yumani ya\~ka<'a>ka-na-'ke ïwabï \\
+    all night sing\~\textsc{ite<intns>}sing-\textsc{neu-pl} women \\
+    \glt The women sang every night'
 \end{exe}
 
 Finally, Itonama also marks event number using a pluractional marker:
 
-17
 \begin{exe}
     \ex\label{ito13} 
-    \gll  \\
-     \\
-    \glt  
+    \gll ubuwa ibah-ne ihwana \\
+     person hit-\textsc{neu} juan \\
+    \glt 'The man hit Juan (once).'
 \end{exe}
 
+\begin{exe}
+    \ex\label{ito14} 
+    \gll  ubuwa bah-na-'ke ihwana \\
+     person hit-\textsc{neu-pl} juan\\
+    \glt 'The man hit Juan (several times).'
+\end{exe}
 
 ## Comparison
 
