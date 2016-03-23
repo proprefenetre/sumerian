@@ -1,6 +1,6 @@
 ---
 title: "Verbal number in Sumerian and Itonama"
-author: Niels Eigenraam
+author: Niels Eigenraam (s0620157)
 crossrefYaml: "pandoc-crossref-settings.yaml"
 ...
 
@@ -60,7 +60,7 @@ The difference between participant number and agreement is subtler. Instead of e
 
 ## Sumerian
 
-### verb alternation
+### Verb alternation
 Sumerian uses two different ways to express verbal number. Some verbs specify number as part of their lexical meaning ([@tbl:altverbs]). Other verbs use reduplication of the verbal stem.
 
 ---------------------------------------------------------
@@ -115,7 +115,7 @@ In (\ref{sum3}), however, the singular verb refers to a plural participant:
     \ex\label{sum3} {ki ensi_2-\ipa{\v{s}\`e} \ipa{\^g}en-na-ne-ne}
     \gll ki ensi_2.k =ak =\ipa{\v{s}\`e} \ipa{\^g}en -Ø -\ipa{P}a =an\ipa{\=e}n\ipa{\=e} =e \\
     place ruler =\textsc{gen} =\textsc{term} go:\textsc{sing} -\textsc{nfin} -\textsc{nom} =their =\textsc{dir} \\
-    \glt 'when they went to the ruler's place'  (@sum3) Ex. 30 DGS (p. 318).
+    \glt 'when they went to the ruler's place'  
 \end{exe}
 
 In other words, the alternating verbs in [@tbl:altverbs] show event, rather than participant number. The association with participant number is somewhat accidental: multiple actions often involve multiple participants [@jagersma10, pp.317-319]. 
@@ -126,7 +126,7 @@ Verb alternation is limited to a small subset of Sumerian verbs. Verbal number, 
 
 \begin{exe}
     \ex\label{sum4} {zi-da gabu_2-na piri\ipa{\^g \`i}-n\ipa{\'u}-n\ipa{\'u}}
-    \gll zi.d -Ø -\ipa{P}a gabu_2 =ane =\ipa{P}a piri\ipa{\^g} =Ø \ipa{\^g}i -b(i) -n\ipa{\'u}-n\ipa{\'u}-Ø \\
+    \gll zi.d -Ø -\ipa{P}a gabu_2 =ane =\ipa{P}a piri\ipa{\^g} =Ø \ipa{\^g}i -b(i) -n\ipa{\'u}-n\ipa{\'u} -Ø \\
     be.right -\textsc{nfin} -\textsc{nom} left =his =\textsc{loc} lion =\textsc{abs} \textsc{vp} -3\textsc{n}:on -lie-lie \textsc{-3n.s/do} \\
     \glt ‘Lions lay on his right as well as on his left. (Jagersma (2010), p. 320)
 \end{exe}
@@ -293,13 +293,7 @@ Finally, Itonama also marks event number using a pluractional marker:
 
 The way Itonama and Sumerian deal with number is in some respects surprisingly similar. Both languages only mark plurality on nouns referring to human entities, for instance (although the set of entities for which this goes is rather small in Itonama). Another similarity is the available strategies for verbal number marking: both languages use verbal stem reduplication and verb alternation/suppletion. Again, there are differences: Itonama has additional mechanisms available ([@tbl:exprvn]), while in Sumerian alternation is restricted to a subset of verbs.
 
-The most important difference, however, is that Sumerian primarily marks event
-number [@jagersma10, p 319], whereas Itonama marks both kinds of verbal number
-equally. A possible explanation for this behaviour is that Sumerian has more
-options to mark number on nouns, compared to Itonama. Its users were not
-as dependent on verbal number for the expression of plurality and hence used it
-more for the semantics of actions and states.
+The most important difference, however, is that Sumerian primarily marks event number [@jagersma10, p 319], whereas Itonama marks both kinds of verbal number equally. A possible explanation for this behaviour is that Sumerian has more options to mark number on nouns, compared to Itonama. Its users were not as dependent on verbal number for the expression of plurality and hence used it more for the semantics of actions and states.
 
-Although there certainly are differences, I was surprised by the level of similarity of
-this feature in Sumerian and Itonama. Especially because you would be hard pressed to find two languages that are more apart in time and space.
+Although there certainly are differences, I was surprised by the level of similarity of this feature in Sumerian and Itonama. Especially because you would be hard pressed to find two languages that are more apart in time and space.
 
