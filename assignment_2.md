@@ -14,26 +14,33 @@ As opposed to nominal number, which relates to entities, verbal number relates t
 
 It is important to note the difference between nominal and verbal number. @corbett2000 [p. 243] gives the following examples: 
 
-(@corb1) the sheep jump
+\begin{exe}
+    \ex\label{corb1} 
+    \gll the sheep jump \\
+     \\
+    \glt  
+\end{exe}
 
 The verb _jump_ in this sentence shows number. However, this number refers to the number of sheep, not the number of 'jumpings'. Hence, this is nominal number. The next two examples show the use of verbal number in Rapanui:
 
-(@corb2) ruku
-         dive
-         'dive'
+\begin{exe}
+    \ex\label{corb2} 
+    \gll ruku \\
+     dive\\
+    \glt 'dive' 
+\end{exe}
 
-(@corb3) ruku ruku
-         dive dive
-         'go diving'
+\begin{exe}
+    \ex\label{corb3} 
+    \gll ruku ruku \\
+     dive dive \\
+    \glt 'go diving'
+\end{exe}
 
-(@corb3) suggests several 'divings', but doesn't give us any information regarding the number of divers.
+(\ref{corb3}) suggests several diving events, but doesn't give us any information regarding the number of divers.
 
 ### Types of verbal number 
-According to @corbett2000 there are two types of verbal number: event number and participant number. (@corb3) is an example of the former. Event number is independent of the number of participants. The most important distinction that is made with event number is between single and multiple events. Compare for instance the sentences (@ito1) and (@ito2) in Itonama:
-
-(@ito1) why do you want to eat us, uncle?
-
-(@ito2) he has seen us!
+According to @corbett2000 there are two types of verbal number: event number and participant number. (\ref{corb3}) is an example of the former. Event number is independent of the number of participants. The most important distinction that is made with event number is between single and multiple events. 
 
 The difference between participant number and agreement is subtler. Instead of enumerating entities, participant number expresses the quantifies actions or states. In Sumerian, for instance, this is expressed using alternating verb stems. Compare:
 
