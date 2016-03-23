@@ -63,50 +63,50 @@ The difference between participant number and agreement is subtler. Instead of e
 ### verb alternation
 Sumerian uses two different ways to express verbal number. Some verbs specify number as part of their lexical meaning ([@tbl:altverbs]). Other verbs use reduplication of the verbal stem.
 
--------------------------------------------------
-stem        meaning
------       -------------------------------------
-gub         stand (singular)
+---------------------------------------------------------
+stem                    meaning
+------------            ---------------------------------
+gub                     stand (singular)
 
-su~4~.g     stand (plural)
+\v{s}u~4~.g = su~8~.g   stand (plural)
 
-gen         go, come (singular, perfective)
+\ipa{\^g}en             go, come (singular, perfective)
 
-er          go, come (plural, perfective)
+er                      go, come (plural, perfective)
 
-du          go, come (singular, imperfective)
+du                      go, come (singular, imperfective)
 
-su~8~.b     go, come (plural, imperfective)
+su~8~.b                 go, come (plural, imperfective)
 
-tus         sit (singular, perfective)
+tu\v{s}                 sit (singular, perfective)
 
-dur         sit (singular, imperfective)
+d\ipa{\'u}r             sit (singular, imperfective)
 
-durun       sit (plural)
+durun                   sit (plural)
 
-lu~5~.k     live (singular) (said of animals)
+lu~5~.k                 live (singular) (said of animals)
 
-ti.l        live (singular) (said of persons)
+ti.l                    live (singular) (said of persons)
 
-se~12~      live (plural)
+se~12~                  live (plural)
 
-tum         bring (singular)
+t\ipa{\'u}m             bring (singular)
 
-lah~5~      bring (plural)
+la\ipa{\v*h}~5~         bring (plural)
 
-du~11~.g    say, do (singular, perfective)
+du~11~.g                say, do (singular, perfective)
 
-e           say, do (plural, perfective)
+e                       say, do (plural, perfective)
 
-us          die, kill (singular)
+\ipa{\'u\v{s}}          die, kill (singular)
 
-ug~7~       die, kill (plural)
+ug~7~                   die, kill (plural)
 
--------------------------------------------------
+---------------------------------------------------------
 
 Table: Sumerian alternating verbs {#tbl:altverbs}
 
-Verb alternation is generally associated with suppletion [@crev06, p. 168]. @jagersma10 [p. 315] that, at least in the case of Sumerian, this is not the case. Suppletion presupposes a verb paradigm, e.g. as with inflection. The difference in singular or plural forms shown by the verbs in [@tbl:altverbs] is not a regular feature, and therefore not a paradigm. These verbs behave just like other verbs. The difference is that the above verb forms show number as part of their lexical meaning [@jagersma10, pp. 315--315]. Hence the different forms in (@sum1) and (@sum2).
+Verb alternation is generally associated with suppletion [@crev06, p. 168]. @jagersma10 [p. 315] that, at least in the case of Sumerian, this is not the case. Suppletion presupposes a verb paradigm, e.g. as with inflection. The difference in singular or plural forms shown by the verbs in [@tbl:altverbs] is not a regular feature, and therefore not a paradigm. These verbs behave just like other verbs. The difference is that the above verb forms show number as part of their lexical meaning [@jagersma10, pp. 315--315]. Hence the different forms in (\ref{sum1}) and (\ref{sum2}).
 
 It has been assumed that in these cases, the verb expresses participant number. 
 In (@sum3), however, the singular verb refers to a plural participant:
