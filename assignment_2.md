@@ -44,9 +44,19 @@ According to @corbett2000 there are two types of verbal number: event number and
 
 The difference between participant number and agreement is subtler. Instead of enumerating entities, participant number expresses the quantifies actions or states. In Sumerian, for instance, this is expressed using alternating verb stems. Compare:
 
-(@sum1) 'it (one lamb) is one that lives at PN, the fattener's place' (Jagersma 2010, p. 316).
+\begin{exe}
+    \ex\label{sum1} \textbf{PN guru\v{s}ta-da mu-da-lu_5-ka-am_6}
+    \gll PN guru\v{s}ta =da Ø -mu -n -da -lu_5.k -Ø -\ipa{P}a =Ø =\ipa{P}am \\
+    PN fattener =\textsc{com} \textsc{vp} -\textsc{vent} -\textsc{3sg} -with -live:\textsc{sing} -\textsc{3n.s/do} -\textsc{nom} =\textsc{abs} =be:3\textsc{n.s} \\
+    \glt  ‘It (viz. one lamb) is one that lives at PN, the fattener’s place.’ (Jagersma (2010), p. 316)
+\end{exe}
 
-(@sum2) 'They (sheep) live at Lugal-ikush's place' (Jagersma 2010, p.316).
+\begin{exe}
+    \ex\label{sum2} \textbf{lugal-\`i-k\'u\v{s} e-da-se_1_2}
+    \gll lugal.\`i.k\'u\v{s}=d(a) \ipa{P}i-n -da -se_1_2 -Ø \\
+     Lugalikush=\textsc{com} \textsc{vp-3sg} -with -live:\textsc{plur} -\textsc{3n.s/do} \\
+    \glt 'They (viz. 82 sheep) live at Lugal-ikush’s place.' (Jagersma (2010), p. 316)
+\end{exe}
 
 ## Sumerian
 
