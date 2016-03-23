@@ -184,7 +184,7 @@ Participant number can be expressed using partial CV reduplication, e.g. in (\re
 
 \begin{exe}
     \ex\label{ito2}
-    \gll sih-k'i-ma-\textbf{do\~doh}-ke upa'u \\
+    \gll sih-k'i-ma-do$\sim$doh-ke upa'u \\
     1\textsc{pl.excl-inv}-hand-\textsc{ite}-bite-\textsc{pl} dog \\
     \glt 'The dogs bit us on the hand.'
 \end{exe}
@@ -217,8 +217,8 @@ Itonama has a number of different verbal classifiers. Generally, these are combi
 
 \begin{exe}
     \ex\label{ito6} 
-    \gll  nik'abï chokosno osi-bo abïte mi-yu-so\~lo<ho>loh-te dih-ni-yumo'-te \\
-     over.there forest be-\textsc{clf6} tree  \textsc{rel-cau}-fall\~\textsc{ite<intns>}fall-\textsc{cont} \textsc{1pl.incl-rel}-eat-\textsc{cont} \\
+    \gll  nik'abï chokosno osi-bo abïte mi-yu-so$\sim$lo<ho>loh-te dih-ni-yumo'-te \\
+     over.there forest be-\textsc{clf6} tree \textsc{rel-cau}-fall\textsc{$\sim$ite<intns>}fall-\textsc{cont} \textsc{1pl.incl-rel}-eat-\textsc{cont} \\
     \glt 'There are trees over there in the forest that are dropping fruit all
 the time so that we can all eat.'  
 \end{exe}
@@ -261,15 +261,15 @@ Another strategy is partial reduplication. This strategy differs from the one ma
 
 \begin{exe}
     \ex\label{ito11} 
-    \gll sosohte yumani ya\~ka<'a>ka-ne-'ka wabï'ka \\
+    > \gll sosohte yumani ya$\sim$ka<'a>ka-ne-'ka wabï'ka \\
      all night sing-\textsc{ite<intns>}sing-\textsc{neu-f.sg} woman \\
     \glt 'The woman sang every night'
 \end{exe}
 
 \begin{exe}
     \ex\label{ito12} 
-    \gll  sosohte yumani ya\~ka<'a>ka-na-'ke ïwabï \\
-    all night sing\~\textsc{ite<intns>}sing-\textsc{neu-pl} women \\
+    \gll  sosohte yumani ya$\sim$ka<'a>ka-na-'ke ïwabï \\
+    all night sing$\sim$\textsc{ite<intns>}sing-\textsc{neu-pl} women \\
     \glt The women sang every night'
 \end{exe}
 
@@ -291,6 +291,15 @@ Finally, Itonama also marks event number using a pluractional marker:
 
 ## Comparison
 
-An important difference in the way Sumerian and Itonama deal with number is that nominal number is as good as absent in Itonama; Sumerian, on the other hand, has the pluralizing affix _-ene_, which is used for human referents.  
+The way Itonama and Sumerian deal with number is in some respects surprisingly similar. Both languages only mark plurality on nouns referring to human entities, for instance (although the set of entities for which this goes is rather small in Itonama). Another similarity is the available strategies for verbal number marking: both languages use verbal stem reduplication and verb alternation/suppletion. Again, there are differences: Itonama has additional mechanisms available ([@tbl:exprvn]), while in Sumerian alternation is restricted to a subset of verbs.
 
+The most important difference, however, is that Sumerian primarily marks event
+number [@jagersma10, p 319], whereas Itonama marks both kinds of verbal number
+equally. A possible explanation for this behaviour is that Sumerian has more
+options to mark number on nouns, compared to Itonama. Its users were not
+as dependent on verbal number for the expression of plurality and hence used it
+more for the semantics of actions and states.
+
+Although there certainly are differences, I was surprised by the level of similarity of
+this feature in Sumerian and Itonama. Especially because you would be hard pressed to find two languages that are more apart in time and space.
 
