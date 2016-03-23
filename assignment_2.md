@@ -124,23 +124,26 @@ In other words, the alternating verbs in [@tbl:altverbs] show event, rather than
 
 Verb alternation is limited to a small subset of Sumerian verbs. Verbal number, however, is not. For verbs that do not belong to the subset in [@tbl:altverbs], Sumerian uses full verb stem reduplication to express number. Plural stems generally indicate plurality of action or state, e.g.:
 
-(@sum4) Ex. 37 DGS (p. 320).
+\begin{exe}
+    \ex\label{sum4} \textbf{zi-da gabu_2-na piri\ipa{\^g
+    \`i}-n\ipa{\'u}-n\ipa{\'u}}
+    \gll zi.d -Ø -\ipa{P}a gabu_2 =ane =\ipa{P}a piri\ipa{\^g} =Ø \ipa{\^g}i -b(i) -n\ipa{\'u}-n\ipa{\'u}-Ø \\
+    be.right -\textsc{nfin} -\textsc{nom} left =his =\textsc{loc} lion =\textsc{abs} \textsc{vp} -3\textsc{n}:on -lie-lie \textsc{-3n.s/do} \\
+    \glt ‘Lions lay on his right as well as on his left. (Jagersma (2010), p.
+320)
+\end{exe}
 
-This can be either a single person performing one action on several objects:
-
-(@sum5) Ex. 39 DGS (p. 320).
-
-or a single person performing the same action several times:
-
-(@sum6) Ex. 44 DGS (p. 321).
-
-or several persons performing the same action once
-
-(@sum7) Ex.  DGS (p. 321). should stop with the ex' around here.
+This can be either a single person performing one action on several objects, a single person performing the same action several times, or several persons performing the same action once, etc. For an overview, see [@jagersma10, p. 316-321].
 
 Interestingly, the verbs with a lexical plural also occur with reduplicated stems:
 
-(@sum8) Ex. 47 DGS (p. 321). should stop with the ex' around here.
+\begin{exe}
+\ex\label{sumX} di\ipa{\^g}ir an-na di\ipa{\^g}ir k[i]-a nu-\ipa{\'u}-m[a]-su_8-su_8-ge-\ipa{\'e\v{s}} 
+\gll di\ipa{\^g}ir an =\ipa{P}a di\ipa{\^g}ir ki =\ipa{P}a =Ø nu =\ipa{P}i -m(u) -ba -su_8.g -su_8.g s-e\ipa{\v{s}} \\
+god heaven =\textsc{loc} god earth =\textsc{loc} =\textsc{abs} \textsc{neg} =\textsc{vp} -\textsc{vent} -\textsc{3n.io} -stand:\textsc{plur} -stand:\textsc{plur} -\textsc{3pl.s/do} \\
+\glt 'The gods in heaven and the gods on the earth were not yet on duty for it (lit. “did not
+stand for it”).' (Jagersma (2010), p. 322)
+\end{exe}
 
 This shows that verbal number is not limited to one action or state.
 
