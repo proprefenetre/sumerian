@@ -106,12 +106,17 @@ ug~7~                   die, kill (plural)
 
 Table: Sumerian alternating verbs {#tbl:altverbs}
 
-Verb alternation is generally associated with suppletion [@crev06, p. 168]. @jagersma10 [p. 315] that, at least in the case of Sumerian, this is not the case. Suppletion presupposes a verb paradigm, e.g. as with inflection. The difference in singular or plural forms shown by the verbs in [@tbl:altverbs] is not a regular feature, and therefore not a paradigm. These verbs behave just like other verbs. The difference is that the above verb forms show number as part of their lexical meaning [@jagersma10, pp. 315--315]. Hence the different forms in (\ref{sum1}) and (\ref{sum2}).
+Verb alternation is generally associated with suppletion [@crev06, p. 168]. @jagersma10 [p. 315] that, at least in the case of Sumerian, this is not the case. Suppletion presupposes a verb paradigm, e.g. as with inflection. The difference in singular or plural forms shown by the verbs in [@tbl:altverbs] is not a regular feature, and therefore not a paradigm. These verbs behave just like other verbs. The difference is that the above verb forms show number as part of their lexical meaning [@jagersma10, pp. 315--319]. Hence the different forms in (\ref{sum1}) and (\ref{sum2}).
 
 It has been assumed that in these cases, the verb expresses participant number. 
-In (@sum3), however, the singular verb refers to a plural participant:
+In (\ref{sum3}), however, the singular verb refers to a plural participant:
 
-(@sum3) Ex. 30 DGS (p. 318).
+\begin{exe}
+    \ex\label{sum3} \textbf{ki ensi_2-\ipa{\v{s}\`e} \ipa{\^g}en-na-ne-ne}
+    \gll ki ensi_2.k =ak =\ipa{\v{s}\`e} \ipa{\^g}en -Ø -\ipa{P}a =an\ipa{\=e}n\ipa{\=e} =e \\
+    place ruler =\textsc{gen} =\textsc{term} go:\textsc{sing} -\textsc{nfin} -\textsc{nom} =their =\textsc{dir} \\
+    \glt 'when they went to the ruler's place'  (@sum3) Ex. 30 DGS (p. 318).
+\end{exe}
 
 In other words, the alternating verbs in [@tbl:altverbs] show event, rather than participant number. The association with participant number is somewhat accidental: multiple actions often involve multiple participants [@jagersma10, pp.317-319]. 
 
