@@ -1,6 +1,13 @@
 ---
 title: "Verbal number in Sumerian and Itonama"
-author: Niels Eigenraam (s0620157)
+author: 
+-   name: Niels Eigenraam
+    student-number: s0620157
+    email: c.eigenraam@umail.leidenuniv.nl
+class: "Samples of Linguistic Structure: Sumerian"
+date: 
+thanks:
+abstract: 
 crossrefYaml: "pandoc-crossref-settings.yaml"
 ...
 
@@ -296,4 +303,5 @@ The way Itonama and Sumerian deal with number is in some respects surprisingly s
 The most important difference, however, is that Sumerian primarily marks event number [@jagersma10, p 319], whereas Itonama marks both kinds of verbal number equally. A possible explanation for this behaviour is that Sumerian has more options to mark number on nouns, compared to Itonama. Its users were not as dependent on verbal number for the expression of plurality and hence used it more for the semantics of actions and states.
 
 Although there certainly are differences, I was surprised by the level of similarity of this feature in Sumerian and Itonama. Especially because you would be hard pressed to find two languages that are more apart in time and space.
+
 
